@@ -1,0 +1,323 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI_Text
+  m_TableCollectionNameGuidString: 5332fc1f3cd7b8741bc9dca728136c20
+  m_Entries:
+  - m_Id: 62195679232
+    m_Key: title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9775859810304
+    m_Key: 'quit '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19605982986240
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19674274643968
+    m_Key: fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19806005149696
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20260265050112
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20433510776832
+    m_Key: save_and_load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349525267365888
+    m_Key: slot_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350143755239424
+    m_Key: slot_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350167507582976
+    m_Key: slot_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350172112928768
+    m_Key: slot_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350180048551936
+    m_Key: slot_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352751253372928
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353940334362624
+    m_Key: simulation_type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 354873550225408
+    m_Key: presets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 354983633928192
+    m_Key: custom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358958592606208
+    m_Key: preset_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359005757554688
+    m_Key: preset_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359014934691840
+    m_Key: preset_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359041547550720
+    m_Key: preset_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359050460446720
+    m_Key: preset_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360069718261760
+    m_Key: start_simulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366363263025152
+    m_Key: x_size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366574777581568
+    m_Key: z_size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367800592285696
+    m_Key: x_offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367824071999488
+    m_Key: z_offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2184984941355008
+    m_Key: seed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185965938728960
+    m_Key: bunny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186086772432896
+    m_Key: modify_adults_carac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186896453459968
+    m_Key: speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187113651298304
+    m_Key: view_distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187349442486272
+    m_Key: consumption_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187987190603776
+    m_Key: modify_baby_carac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188357170159616
+    m_Key: growth_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2190698963329024
+    m_Key: modify_repro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191596565356544
+    m_Key: hunger_to_reproduce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191732850876416
+    m_Key: thirst_to_reproduce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191987843588096
+    m_Key: gestational_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2192252328009728
+    m_Key: litter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2196745564250112
+    m_Key: modify_food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2198298912153600
+    m_Key: reduction_rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2198937327165440
+    m_Key: food_value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2201418543194112
+    m_Key: thirst_value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2201995255799808
+    m_Key: hunger_limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2477640804261888
+    m_Key: thirst_limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479270824042496
+    m_Key: fox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484316534005760
+    m_Key: bunny_number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484435211837440
+    m_Key: fox_number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487843150946304
+    m_Key: male_color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487935450800128
+    m_Key: female_color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2490955408400384
+    m_Key: terrain_tip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586421760417792
+    m_Key: time_speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587532248539136
+    m_Key: paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587625085263872
+    m_Key: paused_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587824406978560
+    m_Key: yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587882540032000
+    m_Key: no
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588216066891776
+    m_Key: characteristics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589788423380992
+    m_Key: data_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589811051651072
+    m_Key: data_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589813186551808
+    m_Key: data_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589814344179712
+    m_Key: data_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2841836511354880
+    m_Key: graph_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2842519893499904
+    m_Key: enable_mean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846610942124032
+    m_Key: auto_mean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2848706789695488
+    m_Key: y_grid_space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2848708584857600
+    m_Key: x_grid_space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984317196189696
+    m_Key: color_data_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984351379767296
+    m_Key: color_data_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984379544518656
+    m_Key: color_data_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984392169373696
+    m_Key: color_data_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3985014687973376
+    m_Key: dot_radius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3985034803855360
+    m_Key: line_thickness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6192490158145536
+    m_Key: nbMean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73627951082409984
+    m_Key: madeBy
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1624885070897

@@ -1,0 +1,320 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5332fc1f3cd7b8741bc9dca728136c20, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 62195679232
+    m_Localized: ECOSYSTEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9775859810304
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19605982986240
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19674274643968
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19806005149696
+    m_Localized: BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20260265050112
+    m_Localized: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20433510776832
+    m_Localized: "Save & Load \nPresets"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 349525267365888
+    m_Localized: Slot 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350143755239424
+    m_Localized: Slot 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350167507582976
+    m_Localized: Slot 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350172112928768
+    m_Localized: Slot 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 350180048551936
+    m_Localized: Slot 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352751253372928
+    m_Localized: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353940334362624
+    m_Localized: Simulation type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 354873550225408
+    m_Localized: Preset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 354983633928192
+    m_Localized: Custom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358958592606208
+    m_Localized: Preset 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359005757554688
+    m_Localized: Preset 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359014934691840
+    m_Localized: Preset 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359041547550720
+    m_Localized: Preset 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359050460446720
+    m_Localized: Preset 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360069718261760
+    m_Localized: START SIMULATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366363263025152
+    m_Localized: Length
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366574777581568
+    m_Localized: Width
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367800592285696
+    m_Localized: Length offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 367824071999488
+    m_Localized: Width offset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2184984941355008
+    m_Localized: Seed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185965938728960
+    m_Localized: BUNNY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186086772432896
+    m_Localized: 'Modify adults carac :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186896453459968
+    m_Localized: Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187113651298304
+    m_Localized: View distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187349442486272
+    m_Localized: Consumption time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2187987190603776
+    m_Localized: 'Modify baby carac :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2188357170159616
+    m_Localized: Growth time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2190698963329024
+    m_Localized: 'Modify reproduction :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191596565356544
+    m_Localized: Hunger to reproduce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191732850876416
+    m_Localized: Thirst to reproduce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2191987843588096
+    m_Localized: Gestational time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2192252328009728
+    m_Localized: Litter size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2196745564250112
+    m_Localized: 'Modify basic needs :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2198298912153600
+    m_Localized: Reduction rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2198937327165440
+    m_Localized: Food value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2201418543194112
+    m_Localized: Water value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2201995255799808
+    m_Localized: Hunger limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2477640804261888
+    m_Localized: Thirst limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2479270824042496
+    m_Localized: FOX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484316534005760
+    m_Localized: Bunny number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484435211837440
+    m_Localized: Fox number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487843150946304
+    m_Localized: 'Male color '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2487935450800128
+    m_Localized: Female color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2490955408400384
+    m_Localized: 'Tip : Use LMB to rotate, RMB to move and scroll wheel to zoom'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586421760417792
+    m_Localized: Time speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587532248539136
+    m_Localized: PAUSED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587625085263872
+    m_Localized: Back to main menu ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587824406978560
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2587882540032000
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2588216066891776
+    m_Localized: Characteristics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589788423380992
+    m_Localized: 'Data 1 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589811051651072
+    m_Localized: 'Data 2 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589813186551808
+    m_Localized: 'Data 3 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2589814344179712
+    m_Localized: 'Data 4 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2841836511354880
+    m_Localized: 'Graph title :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2842519893499904
+    m_Localized: 'Enable mean :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2846610942124032
+    m_Localized: 'Auto mean :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2848706789695488
+    m_Localized: 'Vertical grid space :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2848708584857600
+    m_Localized: 'Horizontal grid space :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984317196189696
+    m_Localized: 'Color data 1 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984351379767296
+    m_Localized: 'Color data 2 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984379544518656
+    m_Localized: 'Color data 3 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984392169373696
+    m_Localized: 'Color data 4 :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3985014687973376
+    m_Localized: 'Dots radius :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3985034803855360
+    m_Localized: 'Lines thickness :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6192490158145536
+    m_Localized: 'Number of point / data :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73627951082409984
+    m_Localized: 'Made by
+
+      Brice Bischoff'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
