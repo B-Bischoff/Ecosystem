@@ -25,11 +25,11 @@ public class PresetSelection : MonoBehaviour
     };
 
     private string[] _descriptionsTabEn = {
-        "Simulation with stable population\nAround 60 bunnys and 4 foxs at the start.",
-        "Bunny extinction in 10 minutes\nAround 40 bunnys and 3 foxs at the start.",
-        "Simulation with bunnys only\nAround 40 bunnys at the start.",
-        "Bunny extinction from starvation\nAround 40 bunnys at the start.",
-        "Sinusoid evolution of the bunnys\nAround 35 bunnys at the start."
+        "Simulation with stable population\nAround 60 bunnies and 4 foxs at the start.",
+        "Bunny extinction in 10 minutes\nAround 40 bunnies and 3 foxs at the start.",
+        "Simulation with bunnies only\nAround 40 bunnies at the start.",
+        "Bunny extinction from starvation\nAround 40 bunnies at the start.",
+        "Sinusoid evolution of the bunnies\nAround 35 bunnies at the start."
     };
 
 
